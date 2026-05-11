@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Calwa</h1>
-<h3 align="center">A passionate Backend Engineer & Research Coordinator from Indonesia</h3>
+<h3 align="center">A passionate Backend Engineer & AI Automation from Indonesia</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ardhiancalwa&label=Profile%20views&color=0e75b6&style=flat" alt="ardhiancalwa" />
