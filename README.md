@@ -5,11 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=ardhiancalwa&label=Profile%20views&color=0e75b6&style=flat" alt="ardhiancalwa" />
 </p>
 
-## 🚀 Key Impact
-- [cite_start]**Engineering:** Optimized AI-model integration pipelines, reducing latency to **≤150ms** and increasing throughput by **20%**.
-- [cite_start]**Leadership:** Coordinating operations for **40+ personnel** at Motion Laboratory to ensure 95% milestone adherence.
-- [cite_start]**Security:** Reduced potential injection attacks by **95%** through strict schema validation and standardized CI/CD[cite: 21].
-
 ---
 
 ### 🛠️ Professional Persona
