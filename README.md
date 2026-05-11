@@ -8,7 +8,7 @@
 ---
 
 ### 🛠️ Professional Persona
-- 🌱 I’m currently learning **Blockchain Technology, TestOps, and AI Automation**.
+- 🌱 I’m currently learning **AI Automation**.
 - 👯 I’m looking to collaborate on **Scalable Backend APIs and AI-driven automation**.
 - 🤝 I’m looking for help with **Distributed Systems Architecture**.
 - 💬 Ask me about **Backend (NestJS, Laravel, Spring Boot), System Design, and Team Leadership**.
@@ -26,6 +26,5 @@
 
 ### 📊 GitHub Stats:
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ardhiancalwa&show_icons=true&locale=en&cache_seconds=1800" alt="ardhiancalwa" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ardhiancalwa&cache_seconds=1800" alt="ardhiancalwa" height="150" />
+  <img src="https://metrics.lecoq.io/ardhiancalwa?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&config.timezone=Asia%2FJakarta" alt="ardhiancalwa metrics" height="400" />
 </p>
